@@ -4,7 +4,7 @@ Programming for Business Analytics (RGU MSc Course)
 
 Week-to-week plan:
 
-* Topic 0 – Introduction to the Module and Online Jupyter Notebook Options
+* Topic 0 – Introduction to the Module & Online Jupyter Notebook Options
 * Topic 1 – Creating Basic Programs in Python
 * Topic 2 – Loading Data & Manipulating Rows
 * Topic 3 – Manipulating Columns & Missing Data
