@@ -1,0 +1,17 @@
+machine_code,snack,amount,category,price
+A1,,,,
+A2,Diet Coke,7.0,drinks,3.75
+A3,Coke,2.0,drinks,3.7
+A4,Irn-bru,5.0,drinks,3.0
+B1,Mars,5.0,chocolate,2.9
+B2,Mars,7.0,chocolate,2.9
+B3,Milky Way,8.0,chocolate,2.85
+B4,Irn-bru,3.0,drinks,3.0
+C1,Sea Salt Crisps,2.0,crisps,2.15
+C2,,,,
+C3,Shortbread,4.0,biscuits,2.5
+C4,,,,
+D1,Doritos,2.0,crisps,2.5
+D2,Doritos,1.0,crisps,2.5
+D3,,,,
+D4,Shortbread,1.0,biscuits,2.5
